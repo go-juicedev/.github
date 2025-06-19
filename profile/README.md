@@ -65,8 +65,8 @@ All projects are open-source under the [MIT License](LICENSE). Feel free to use 
 ## Contact Us
 
 - **GitHub Organization**: [go-juicedev](https://github.com/go-juicedev)
-- **Core Maintainer**: [Your GitHub Username]
-- **Email**: [Your Email Address]
+- **Core Maintainer**: [eatmoreapple](https://github.com/eatmoreapple)
+- **Email**: eatmoreorange@gmail.com
 
 ---
 
